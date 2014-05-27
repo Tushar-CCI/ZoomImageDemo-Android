@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
 	static final int DRAG = 1;
 	static final int ZOOM = 2;
 	int mode = NONE;
-
+    String test="";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
